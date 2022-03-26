@@ -7,7 +7,7 @@ body{
     width: 800px;
     height: 800px;
     text-align: center;
-    border-top: 4px solid grey;
+    border-top: 5px solid grey;
 }
 ul{
     list-style: none;
@@ -21,7 +21,7 @@ li{
 }
 .sulka{
     
-    color: grey;
+    color: aqua;
     text-decoration: none;
 }
 .sulka:hover{
